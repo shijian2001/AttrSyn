@@ -37,6 +37,7 @@ text2img_model = {
 	"multi-diffusion"                   : ("MultiDiffusion", "stabilityai/stable-diffusion-2-base",),
 	"dit"                               : ("DiT", "facebook/DiT-XL-2-256",),
 	"pixart"                            : ("PixArt", "PixArt-alpha/PixArt-XL-2-1024-MS",),
+	"hunyuan-dit"                       : ("HunyuanDiT", "Tencent-Hunyuan/HunyuanDiT-Diffusers")
 }
 
 
@@ -657,3 +658,12 @@ class PixArt(AbstractModel):
 		# image = pipe.image_processor.postprocess(image, output_type="pil")[0]
 
 		return image
+
+
+class HunyuanDiT(AbstractModel):
+	def __init__(self, ckpt: str = "Tencent-Hunyuan/HunyuanDiT-Diffusers", precision: torch.dtype = torch.float16, device: torch.device = torch.device("cuda")):
+		from diffusers import HunyuanDiTPipeline
+		self.pipeline = HunyuanDiTPipeline.from_pretrained(ckpt, torch_dtype=precision).to(device)
+
+	def text2img(self, prompt):
+		return self.pipeline(prompt=prompt).images
