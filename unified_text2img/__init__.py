@@ -1,0 +1,1 @@
+from .text2img_models import Text2Img
