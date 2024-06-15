@@ -14,6 +14,7 @@ text2img_model = {
 	"stable-diffusion-1-5"              : ('StableDiffusion', "runwayml/stable-diffusion-v1-5",),
 	"stable-diffusion-1-4"              : ('StableDiffusion', "CompVis/stable-diffusion-v1-4",),
 	"stable-diffusion-xl"               : ("StableDiffusionXL", "stabilityai/stable-diffusion-xl-base-1.0",),
+	"stable-diffusion-3-medium"         : ("StableDiffusion3", "stabilityai/stable-diffusion-3-medium-diffusers"),
 	"stable-diffusion-safe"             : ("StableDiffusionSafe", "AIML-TUDA/stable-diffusion-safe",),
 	"stable-cascade"                    : ("StableCascade", {"prior-pipeline": "stabilityai/stable-cascade-prior", "pipeline": "stabilityai/stable-cascade"},),
 	"sdxl-turbo"                        : ("SDXLTurbo", "stabilityai/sdxl-turbo",),
@@ -246,6 +247,20 @@ class StableDiffusion2(AbstractModel):
 	def text2img(self, prompt):
 		return self.pipeline(prompt, num_inference_steps=25).images
 
+
+class StableDiffusion3(AbstractModel):
+	def __init__(self, ckpt: str = 'stabilityai/stable-diffusion-3-medium-diffusers', precision: torch.dtype = torch.float16, device: torch.device = torch.device("cuda")):
+		from diffusers import StableDiffusion3Pipeline
+		self.pipeline = StableDiffusion3Pipeline.from_pretrained(ckpt, torch_dtype=precision)
+		self.pipeline = self.pipeline.to(device)
+
+	def text2img(self, prompt):
+		return self.pipeline(
+			prompt,
+			negative_prompt="",
+			num_inference_steps=28,
+			guidance_scale=7.0,
+		).images
 
 class StableDiffusionXL(AbstractModel):
 	def __init__(self, ckpt: str = 'stabilityai/stable-diffusion-xl-base-1.0', precision: torch.dtype = torch.float16, device: torch.device = torch.device("cuda")):

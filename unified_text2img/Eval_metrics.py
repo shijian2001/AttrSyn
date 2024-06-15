@@ -4,6 +4,7 @@ from utils import *
 from utils import _compute_pmi
 import clip
 from typing import *
+
 Eval_metrics = {
     "InceptionScore":               "InceptionScore",
     "FrechetInceptionDistance":     "FrechetInceptionDistance",
