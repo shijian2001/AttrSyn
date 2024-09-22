@@ -1,0 +1,1402 @@
+{
+    "black footed albatross": [
+        "ocean",
+        "islands",
+        "cliffs",
+        "beaches",
+        "open-water"
+    ],
+    "laysan albatross": [
+        "ocean",
+        "beaches",
+        "islands",
+        "cliffs",
+        "grasslands"
+    ],
+    "sooty albatross": [
+        "islands",
+        "cliffs",
+        "oceans",
+        "forests",
+        "subantarctic"
+    ],
+    "groove billed ani": [
+        "savanna",
+        "forest",
+        "grassland",
+        "agriculture",
+        "wetlands"
+    ],
+    "crested auklet": [
+        "ocean",
+        "cliffs",
+        "islands",
+        "tundra",
+        "coastlines"
+    ],
+    "least auklet": [
+        "tundra",
+        "coastlines",
+        "cliffs",
+        "islands",
+        "oceanic"
+    ],
+    "parakeet auklet": [
+        "ocean",
+        "cliffs",
+        "islands",
+        "tundra",
+        "coastal"
+    ],
+    "rhinoceros auklet": [
+        "ocean",
+        "islands",
+        "cliffs",
+        "forests",
+        "beaches"
+    ],
+    "brewer blackbird": [
+        "open fields",
+        "woodland edges",
+        "farmlands",
+        "urban areas",
+        "wetlands"
+    ],
+    "red winged blackbird": [
+        "wetlands",
+        "fields",
+        "meadows",
+        "marshes",
+        "forests"
+    ],
+    "rusty blackbird": [
+        "wetlands",
+        "forests",
+        "swamps",
+        "fields",
+        "marshes"
+    ],
+    "yellow headed blackbird": [
+        "marshes",
+        "wetlands",
+        "fields",
+        "prairies",
+        "lakeshores"
+    ],
+    "bobolink": [
+        "grasses",
+        "meadows",
+        "prairies",
+        "fields",
+        "wetlands"
+    ],
+    "indigo bunting": [
+        "woodlands",
+        "fields",
+        "edges",
+        "roadsides",
+        "brushy_areas"
+    ],
+    "lazuli bunting": [
+        "scrublands",
+        "woodlands",
+        "thickets",
+        "edges",
+        "streamside"
+    ],
+    "painted bunting": [
+        "woodlands",
+        "scrublands",
+        "thickets",
+        "grasslands",
+        "marshes"
+    ],
+    "cardinal": [
+        "forest",
+        "garden",
+        "church",
+        "birdfeeder",
+        "cityscape"
+    ],
+    "spotted catbird": [
+        "rainforest",
+        "woodland",
+        "gardens",
+        "mangroves",
+        "orchards"
+    ],
+    "gray catbird": [
+        "shrubs",
+        "forests",
+        "thickets",
+        "gardens",
+        "wetlands"
+    ],
+    "yellow breasted chat": [
+        "shrublands",
+        "forests",
+        "thickets",
+        "wetlands",
+        "agricultural.fields"
+    ],
+    "eastern towhee": [
+        "forests",
+        "thickets",
+        "edges",
+        "gardens",
+        "scrublands"
+    ],
+    "chuck will widow": [
+        "forest",
+        "urban",
+        "cemetery",
+        "mansion",
+        "laboratory"
+    ],
+    "brandt cormorant": [
+        "ocean",
+        "rocks",
+        "cliffs",
+        "beaches",
+        "water"
+    ],
+    "red faced cormorant": [
+        "coastlines",
+        "cliffs",
+        "oceans",
+        "rocks",
+        "islands"
+    ],
+    "pelagic cormorant": [
+        "ocean",
+        "cliffs",
+        "coastal",
+        "marina",
+        "islands"
+    ],
+    "bronzed cowbird": [
+        "grasslands",
+        "shrublands",
+        "farmlands",
+        "forests",
+        "savannas"
+    ],
+    "shiny cowbird": [
+        "grasslands",
+        "forests",
+        "urban",
+        "agricultural",
+        "wetlands"
+    ],
+    "brown creeper": [
+        "forests",
+        "trees",
+        "bark",
+        "woodlands",
+        "conifers"
+    ],
+    "american crow": [
+        "urban",
+        "forest",
+        "agricultural",
+        "suburban",
+        "wetland"
+    ],
+    "fish crow": [
+        "wetlands",
+        "coastal",
+        "rivers",
+        "swamps",
+        "urban"
+    ],
+    "black billed cuckoo": [
+        "woodlands",
+        "wetlands",
+        "thickets",
+        "edges",
+        "swamps"
+    ],
+    "mangrove cuckoo": [
+        "mangroves",
+        "forests",
+        "swamps",
+        "coastlines",
+        "woodlands"
+    ],
+    "yellow billed cuckoo": [
+        "woodlands",
+        "riparian",
+        "wetlands",
+        "agriculture",
+        "forests"
+    ],
+    "gray crowned rosy finch": [
+        "mountains",
+        "tundra",
+        "cliffs",
+        "meadows",
+        "snowfields"
+    ],
+    "purple finch": [
+        "woods",
+        "suburban",
+        "edges",
+        "forests",
+        "feeders"
+    ],
+    "northern flicker": [
+        "forest",
+        "grassland",
+        "urban",
+        "wetland",
+        "desert"
+    ],
+    "acadian flycatcher": [
+        "forest",
+        "woodlands",
+        "streams",
+        "swamps",
+        "ravines"
+    ],
+    "great crested flycatcher": [
+        "woodlands",
+        "forests",
+        "edges",
+        "open",
+        "parks"
+    ],
+    "least flycatcher": [
+        "woodlands",
+        "edges",
+        "thickets",
+        "shrubs",
+        "streams"
+    ],
+    "olive sided flycatcher": [
+        "forest",
+        "wetlands",
+        "meadows",
+        "edges",
+        "burned_areas"
+    ],
+    "scissor tailed flycatcher": [
+        "grasslands",
+        "savannas",
+        "scrublands",
+        "open",
+        "woodlands"
+    ],
+    "vermilion flycatcher": [
+        "desert",
+        "scrubland",
+        "savanna",
+        "grassland",
+        "riparian"
+    ],
+    "yellow bellied flycatcher": [
+        "forest",
+        "bogs",
+        "swamps",
+        "thickets",
+        "undergrowth"
+    ],
+    "frigatebird": [
+        "ocean",
+        "islands",
+        "coasts",
+        "cliffs",
+        "tropics"
+    ],
+    "northern fulmar": [
+        "ocean",
+        "cliffs",
+        "tundra",
+        "coastal",
+        "islands"
+    ],
+    "gadwall": [
+        "wetlands",
+        "ponds",
+        "lakes",
+        "rivers",
+        "marshes"
+    ],
+    "american goldfinch": [
+        "gardens",
+        "fields",
+        "orchards",
+        "woodlands",
+        "backyards"
+    ],
+    "european goldfinch": [
+        "gardens",
+        "woodlands",
+        "farmland",
+        "heathland",
+        "scrubland"
+    ],
+    "boat tailed grackle": [
+        "marshes",
+        "urban",
+        "agricultural",
+        "coastal",
+        "freshwater"
+    ],
+    "eared grebe": [
+        "wetlands",
+        "lakes",
+        "marshes",
+        "coastlines",
+        "ponds"
+    ],
+    "horned grebe": [
+        "wetlands",
+        "lakes",
+        "ponds",
+        "marshes",
+        "tundra"
+    ],
+    "pied billed grebe": [
+        "wetlands",
+        "lakes",
+        "ponds",
+        "marshes",
+        "rivers"
+    ],
+    "western grebe": [
+        "lake",
+        "marsh",
+        "freshwater",
+        "coastal",
+        "estuary"
+    ],
+    "blue grosbeak": [
+        "brushy",
+        "fields",
+        "woodland",
+        "edges",
+        "scrublands"
+    ],
+    "evening grosbeak": [
+        "forests",
+        "mountains",
+        "gardens",
+        "suburbs",
+        "woodlands"
+    ],
+    "pine grosbeak": [
+        "coniferous",
+        "forests",
+        "mountains",
+        "taiga",
+        "subalpine"
+    ],
+    "rose breasted grosbeak": [
+        "deciduous",
+        "forests",
+        "shrublands",
+        "gardens",
+        "woodlands"
+    ],
+    "pigeon guillemot": [
+        "coastal",
+        "cliffs",
+        "marine",
+        "islands",
+        "rocky"
+    ],
+    "california gull": [
+        "lakes",
+        "beaches",
+        "fields",
+        "marshes",
+        "rivers"
+    ],
+    "glaucous winged gull": [
+        "coastal",
+        "urban",
+        "landfill",
+        "beaches",
+        "islands"
+    ],
+    "heermann gull": [
+        "coastal",
+        "beaches",
+        "ocean",
+        "islands",
+        "estuaries"
+    ],
+    "herring gull": [
+        "coastal",
+        "urban",
+        "marine",
+        "landfill",
+        "agricultural"
+    ],
+    "ivory gull": [
+        "arctic",
+        "coastlines",
+        "sea",
+        "ice",
+        "tundra"
+    ],
+    "ring billed gull": [
+        "coastal",
+        "urban",
+        "freshwater",
+        "agricultural",
+        "wetlands"
+    ],
+    "slaty backed gull": [
+        "ocean",
+        "coastline",
+        "cliffs",
+        "islands",
+        "ports"
+    ],
+    "western gull": [
+        "coastal",
+        "beaches",
+        "cliffs",
+        "oceans",
+        "urban_areas"
+    ],
+    "anna hummingbird": [
+        "gardens",
+        "forests",
+        "meadows",
+        "coastal",
+        "urban"
+    ],
+    "ruby throated hummingbird": [
+        "forests",
+        "gardens",
+        "meadows",
+        "wetlands",
+        "urban_areas"
+    ],
+    "rufous hummingbird": [
+        "forest",
+        "meadow",
+        "garden",
+        "mountain",
+        "coastal"
+    ],
+    "green violetear": [
+        "forest",
+        "montane",
+        "cloud",
+        "woodland",
+        "edge"
+    ],
+    "long tailed jaeger": [
+        "tundra",
+        "ocean",
+        "coast",
+        "wetlands",
+        "grassland"
+    ],
+    "pomarine jaeger": [
+        "ocean",
+        "tundra",
+        "coast",
+        "maritime",
+        "islands"
+    ],
+    "blue jay": [
+        "forest",
+        "suburban",
+        "parks",
+        "gardens",
+        "woodlands"
+    ],
+    "florida jay": [
+        "pine",
+        "scrub",
+        "oak",
+        "coastal",
+        "sandy"
+    ],
+    "green jay": [
+        "forest",
+        "scrubland",
+        "woodlands",
+        "thickets",
+        "riversides"
+    ],
+    "dark eyed junco": [
+        "forest",
+        "meadow",
+        "garden",
+        "mountain",
+        "urban"
+    ],
+    "tropical kingbird": [
+        "forest",
+        "savanna",
+        "riverside",
+        "urban",
+        "agricultural"
+    ],
+    "gray kingbird": [
+        "coastal",
+        "urban",
+        "forest",
+        "mangrove",
+        "scrubland"
+    ],
+    "belted kingfisher": [
+        "rivers",
+        "lakes",
+        "coasts",
+        "wetlands",
+        "forests"
+    ],
+    "green kingfisher": [
+        "rivers",
+        "forests",
+        "streams",
+        "lakes",
+        "wetlands"
+    ],
+    "pied kingfisher": [
+        "water",
+        "trees",
+        "rivers",
+        "lakes",
+        "wetlands"
+    ],
+    "ringed kingfisher": [
+        "rivers",
+        "lakes",
+        "marshes",
+        "coastlines",
+        "woodlands"
+    ],
+    "white breasted kingfisher": [
+        "wetlands",
+        "rivers",
+        "coasts",
+        "forests",
+        "agricultural-fields"
+    ],
+    "red legged kittiwake": [
+        "cliffs",
+        "ocean",
+        "islands",
+        "coasts",
+        "colonies"
+    ],
+    "horned lark": [
+        "grasslands",
+        "agricultural fields",
+        "deserts",
+        "tundra",
+        "shores"
+    ],
+    "pacific loon": [
+        "lakes",
+        "oceans",
+        "tundra",
+        "coastal",
+        "wetlands"
+    ],
+    "mallard": [
+        "wetlands",
+        "lakes",
+        "rivers",
+        "ponds",
+        "marshes"
+    ],
+    "western meadowlark": [
+        "grasslands",
+        "prairies",
+        "fields",
+        "pastures",
+        "savannas"
+    ],
+    "hooded merganser": [
+        "freshwater",
+        "wetlands",
+        "forests",
+        "lakes",
+        "rivers"
+    ],
+    "red breasted merganser": [
+        "coastal",
+        "lakes",
+        "rivers",
+        "wetlands",
+        "estuaries"
+    ],
+    "mockingbird": [
+        "suburban",
+        "urban",
+        "forest",
+        "farmland",
+        "desert"
+    ],
+    "nighthawk": [
+        "forests",
+        "grasslands",
+        "urban",
+        "deserts",
+        "wetlands"
+    ],
+    "clark nutcracker": [
+        "mountains",
+        "forests",
+        "woodlands",
+        "alpine",
+        "coniferous"
+    ],
+    "white breasted nuthatch": [
+        "woodlands",
+        "trees",
+        "suburbs",
+        "forests",
+        "feeders"
+    ],
+    "baltimore oriole": [
+        "woodlands",
+        "orchards",
+        "parks",
+        "gardens",
+        "riversides"
+    ],
+    "hooded oriole": [
+        "trees",
+        "urban",
+        "suburbs",
+        "parks",
+        "gardens"
+    ],
+    "orchard oriole": [
+        "woodlands",
+        "savannas",
+        "riparian",
+        "scrublands",
+        "fields"
+    ],
+    "scott oriole": [
+        "desert",
+        "scrub",
+        "woodlands",
+        "canyons",
+        "savannas"
+    ],
+    "ovenbird": [
+        "forest",
+        "undergrowth",
+        "woodland",
+        "migration",
+        "nesting"
+    ],
+    "brown pelican": [
+        "coastal",
+        "marine",
+        "estuaries",
+        "beaches",
+        "mangroves"
+    ],
+    "white pelican": [
+        "wetlands",
+        "lakes",
+        "rivers",
+        "coasts",
+        "marshes"
+    ],
+    "western wood pewee": [
+        "forests",
+        "woodlands",
+        "edges",
+        "riparian",
+        "open_areas"
+    ],
+    "sayornis": [
+        "forest",
+        "rivers",
+        "wetlands",
+        "urban",
+        "coastal"
+    ],
+    "american pipit": [
+        "grasslands",
+        "tundra",
+        "beaches",
+        "fields",
+        "wetlands"
+    ],
+    "whip poor will": [
+        "forest",
+        "edge",
+        "scrub",
+        "grassland",
+        "woodland"
+    ],
+    "horned puffin": [
+        "coastal",
+        "cliffs",
+        "islands",
+        "ocean",
+        "tundra"
+    ],
+    "common raven": [
+        "forest",
+        "mountains",
+        "deserts",
+        "coasts",
+        "tundra"
+    ],
+    "white necked raven": [
+        "savanna",
+        "cliffs",
+        "grasslands",
+        "mountains",
+        "deserts"
+    ],
+    "american redstart": [
+        "woodlands",
+        "shrublands",
+        "forests",
+        "mangroves",
+        "swamps"
+    ],
+    "geococcyx": [
+        "deserts",
+        "grasslands",
+        "scrublands",
+        "woodlands",
+        "savannas"
+    ],
+    "loggerhead shrike": [
+        "grasslands",
+        "shrublands",
+        "farmlands",
+        "deserts",
+        "savannas"
+    ],
+    "great grey shrike": [
+        "open",
+        "woodland",
+        "shrubland",
+        "farmland",
+        "edges"
+    ],
+    "baird sparrow": [
+        "grasslands",
+        "prairies",
+        "meadows",
+        "fields",
+        "savannahs"
+    ],
+    "black throated sparrow": [
+        "desert",
+        "shrubland",
+        "sagebrush",
+        "grassland",
+        "arid"
+    ],
+    "brewer sparrow": [
+        "sagebrush",
+        "grasslands",
+        "deserts",
+        "shrubsteppe",
+        "openwoods"
+    ],
+    "chipping sparrow": [
+        "woodlands",
+        "gardens",
+        "shrubs",
+        "parks",
+        "grasslands"
+    ],
+    "clay colored sparrow": [
+        "prairies",
+        "shrublands",
+        "grasslands",
+        "savannas",
+        "farmlands"
+    ],
+    "house sparrow": [
+        "urban",
+        "gardens",
+        "farmland",
+        "parks",
+        "buildings"
+    ],
+    "field sparrow": [
+        "grasslands",
+        "shrublands",
+        "edges",
+        "open",
+        "fields"
+    ],
+    "fox sparrow": [
+        "forest",
+        "brushy",
+        "dense",
+        "undergrowth",
+        "shrubby"
+    ],
+    "grasshopper sparrow": [
+        "grasslands",
+        "prairies",
+        "fields",
+        "savannas",
+        "meadows"
+    ],
+    "harris sparrow": [
+        "woodlands",
+        "grasslands",
+        "brushlands",
+        "fields",
+        "wetlands"
+    ],
+    "henslow sparrow": [
+        "grasslands",
+        "prairies",
+        "meadows",
+        "fields",
+        "savannas"
+    ],
+    "le conte sparrow": [
+        "grassland",
+        "wetland",
+        "prairie",
+        "savannah",
+        "coastalplain"
+    ],
+    "lincoln sparrow": [
+        "marshes",
+        "meadows",
+        "shrublands",
+        "forests",
+        "tundra"
+    ],
+    "nelson sharp tailed sparrow": [
+        "saltmarsh",
+        "grassland",
+        "wetland",
+        "estuary",
+        "prairie"
+    ],
+    "savannah sparrow": [
+        "grasslands",
+        "fields",
+        "meadows",
+        "marshes",
+        "shrublands"
+    ],
+    "seaside sparrow": [
+        "marshes",
+        "coastal",
+        "wetlands",
+        "grasslands",
+        "estuaries"
+    ],
+    "song sparrow": [
+        "marshes",
+        "forests",
+        "scrublands",
+        "grasslands",
+        "urban areas"
+    ],
+    "tree sparrow": [
+        "farmlands",
+        "hedgerows",
+        "gardens",
+        "woodlands",
+        "scrublands"
+    ],
+    "vesper sparrow": [
+        "grasslands",
+        "fields",
+        "prairies",
+        "savannahs",
+        "shrublands"
+    ],
+    "white crowned sparrow": [
+        "scrublands",
+        "forests",
+        "tundra",
+        "grasslands",
+        "urban_areas"
+    ],
+    "white throated sparrow": [
+        "forest",
+        "shrubland",
+        "grassland",
+        "wetland",
+        "urban"
+    ],
+    "cape glossy starling": [
+        "savannah",
+        "woodland",
+        "scrubland",
+        "grassland",
+        "farmland"
+    ],
+    "bank swallow": [
+        "riverbanks",
+        "cliffs",
+        "quarries",
+        "beaches",
+        "agricultural-fields"
+    ],
+    "barn swallow": [
+        "farmlands",
+        "fields",
+        "near-water",
+        "barns",
+        "urban_areas"
+    ],
+    "cliff swallow": [
+        "cliffs",
+        "bridges",
+        "buildings",
+        "underpasses",
+        "overhangs"
+    ],
+    "tree swallow": [
+        "wetlands",
+        "forests",
+        "grasslands",
+        "lakeshores",
+        "riversides"
+    ],
+    "scarlet tanager": [
+        "forest",
+        "trees",
+        "canopy",
+        "edges",
+        "shrubs"
+    ],
+    "summer tanager": [
+        "woods",
+        "forests",
+        "openings",
+        "streamside",
+        "swamps"
+    ],
+    "artic tern": [
+        "ocean",
+        "beaches",
+        "wetlands",
+        "tundra",
+        "estuaries"
+    ],
+    "black tern": [
+        "wetlands",
+        "marshes",
+        "lakes",
+        "rivers",
+        "ponds"
+    ],
+    "caspian tern": [
+        "wetlands",
+        "lakes",
+        "coasts",
+        "rivers",
+        "estuaries"
+    ],
+    "common tern": [
+        "wetlands",
+        "lakes",
+        "coasts",
+        "rivers",
+        "estuaries"
+    ],
+    "elegant tern": [
+        "coastal",
+        "beaches",
+        "islands",
+        "estuaries",
+        "lagoons"
+    ],
+    "forsters tern": [
+        "wetlands",
+        "marshes",
+        "lakes",
+        "estuaries",
+        "rivers"
+    ],
+    "least tern": [
+        "beaches",
+        "rivers",
+        "lakes",
+        "estuaries",
+        "wetlands"
+    ],
+    "green tailed towhee": [
+        "scrublands",
+        "forests",
+        "meadows",
+        "chaparral",
+        "edges"
+    ],
+    "brown thrasher": [
+        "woodlands",
+        "shrubbery",
+        "gardens",
+        "thickets",
+        "edges"
+    ],
+    "sage thrasher": [
+        "desert",
+        "shrubland",
+        "grassland",
+        "arid",
+        "semi-arid"
+    ],
+    "black capped vireo": [
+        "shrubby",
+        "woodlands",
+        "oak",
+        "juniper",
+        "savannas"
+    ],
+    "blue headed vireo": [
+        "deciduous",
+        "forests",
+        "mixed",
+        "woodlands",
+        "edges"
+    ],
+    "philadelphia vireo": [
+        "deciduous",
+        "forests",
+        "shrubbery",
+        "woodlands",
+        "edges"
+    ],
+    "red eyed vireo": [
+        "forest",
+        "trees",
+        "canopy",
+        "shrubs",
+        "streams"
+    ],
+    "warbling vireo": [
+        "woods",
+        "rivers",
+        "parks",
+        "gardens",
+        "orchards"
+    ],
+    "white eyed vireo": [
+        "woodlands",
+        "shrublands",
+        "thickets",
+        "forests",
+        "edges"
+    ],
+    "yellow throated vireo": [
+        "deciduous",
+        "forests",
+        "woodlands",
+        "edges",
+        "parks"
+    ],
+    "bay breasted warbler": [
+        "forests",
+        "migration",
+        "breeding",
+        "coniferous",
+        "wintering"
+    ],
+    "black and white warbler": [
+        "forests",
+        "woodlands",
+        "swamps",
+        "mangroves",
+        "shrublands"
+    ],
+    "black throated blue warbler": [
+        "deciduous",
+        "forests",
+        "undergrowth",
+        "shrubs",
+        "mountains"
+    ],
+    "blue winged warbler": [
+        "deciduous",
+        "forests",
+        "shrublands",
+        "wetlands",
+        "clearings"
+    ],
+    "canada warbler": [
+        "forest",
+        "wetlands",
+        "shrubland",
+        "boreal",
+        "migration"
+    ],
+    "cape may warbler": [
+        "coniferous",
+        "forests",
+        "breeding",
+        "areas",
+        "islands"
+    ],
+    "cerulean warbler": [
+        "deciduous",
+        "forests",
+        "mountains",
+        "ridges",
+        "canopy"
+    ],
+    "chestnut sided warbler": [
+        "deciduous",
+        "forest",
+        "edge",
+        "shrub",
+        "clearings"
+    ],
+    "golden winged warbler": [
+        "forest",
+        "shrublands",
+        "wetlands",
+        "open",
+        "agricultural"
+    ],
+    "hooded warbler": [
+        "forest",
+        "understory",
+        "shrubbery",
+        "swamp",
+        "clearing"
+    ],
+    "kentucky warbler": [
+        "woodlands",
+        "forests",
+        "understory",
+        "shrubs",
+        "streams"
+    ],
+    "magnolia warbler": [
+        "forests",
+        "swamps",
+        "bogs",
+        "thickets",
+        "edges"
+    ],
+    "mourning warbler": [
+        "understory",
+        "forests",
+        "thickets",
+        "shrubby",
+        "edges"
+    ],
+    "myrtle warbler": [
+        "forests",
+        "shrublands",
+        "grasslands",
+        "wetlands",
+        "urban_areas"
+    ],
+    "nashville warbler": [
+        "forest",
+        "shrubs",
+        "wetlands",
+        "grasslands",
+        "edges"
+    ],
+    "orange crowned warbler": [
+        "forests",
+        "shrublands",
+        "thickets",
+        "gardens",
+        "wetlands"
+    ],
+    "palm warbler": [
+        "forest",
+        "wetlands",
+        "meadows",
+        "scrublands",
+        "coastline"
+    ],
+    "pine warbler": [
+        "forests",
+        "pine",
+        "woodlands",
+        "conifers",
+        "savannas"
+    ],
+    "prairie warbler": [
+        "scrublands",
+        "forests",
+        "savannas",
+        "mangroves",
+        "grasslands"
+    ],
+    "prothonotary warbler": [
+        "swamps",
+        "forests",
+        "wetlands",
+        "rivers",
+        "streams"
+    ],
+    "swainson warbler": [
+        "swamps",
+        "forests",
+        "canebrakes",
+        "undergrowth",
+        "thickets"
+    ],
+    "tennessee warbler": [
+        "forests",
+        "shrublands",
+        "wetlands",
+        "grasslands",
+        "orchards"
+    ],
+    "wilson warbler": [
+        "woodlands",
+        "wetlands",
+        "shrubs",
+        "forests",
+        "thickets"
+    ],
+    "worm eating warbler": [
+        "forest",
+        "shrubland",
+        "wetland",
+        "grassland",
+        "agricultural"
+    ],
+    "yellow warbler": [
+        "woodlands",
+        "marshes",
+        "shrublands",
+        "orchards",
+        "streams"
+    ],
+    "northern waterthrush": [
+        "swamps",
+        "bogs",
+        "streams",
+        "forests",
+        "wetlands"
+    ],
+    "louisiana waterthrush": [
+        "streamside",
+        "forests",
+        "ravines",
+        "swamps",
+        "wetlands"
+    ],
+    "bohemian waxwing": [
+        "boreal",
+        "forests",
+        "berries",
+        "urban",
+        "tundra"
+    ],
+    "cedar waxwing": [
+        "edges",
+        "forests",
+        "streams",
+        "fields",
+        "urban"
+    ],
+    "american three toed woodpecker": [
+        "forests",
+        "coniferous",
+        "burned",
+        "wooded",
+        "snowy"
+    ],
+    "pileated woodpecker": [
+        "forest",
+        "deadwood",
+        "suburban",
+        "wetlands",
+        "deciduous"
+    ],
+    "red bellied woodpecker": [
+        "forests",
+        "swamps",
+        "gardens",
+        "orchards",
+        "savannas"
+    ],
+    "red cockaded woodpecker": [
+        "pine",
+        "forests",
+        "savannas",
+        "woodlands",
+        "ecosystems"
+    ],
+    "red headed woodpecker": [
+        "forest",
+        "savannas",
+        "edges",
+        "wetlands",
+        "residential_areas"
+    ],
+    "downy woodpecker": [
+        "forest",
+        "suburban",
+        "parks",
+        "woodlands",
+        "orchards"
+    ],
+    "bewick wren": [
+        "woodlands",
+        "shrublands",
+        "suburbs",
+        "gardens",
+        "forests"
+    ],
+    "cactus wren": [
+        "desert",
+        "scrubland",
+        "chaparral",
+        "grassland",
+        "savanna"
+    ],
+    "carolina wren": [
+        "woodlands",
+        "gardens",
+        "swamps",
+        "brushy",
+        "edges"
+    ],
+    "house wren": [
+        "woodlands",
+        "gardens",
+        "suburbs",
+        "farmlands",
+        "grasslands"
+    ],
+    "marsh wren": [
+        "marshes",
+        "reeds",
+        "wetlands",
+        "cattails",
+        "swamps"
+    ],
+    "rock wren": [
+        "rocky",
+        "cliffs",
+        "canyons",
+        "scrublands",
+        "boulders"
+    ],
+    "winter wren": [
+        "forests",
+        "undergrowth",
+        "brushwood",
+        "creeks",
+        "ravines"
+    ],
+    "common yellowthroat": [
+        "marshes",
+        "wetlands",
+        "thickets",
+        "grasslands",
+        "fields"
+    ]
+}

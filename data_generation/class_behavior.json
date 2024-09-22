@@ -1,0 +1,1402 @@
+{
+    "black footed albatross": [
+        "soaring",
+        "feeding",
+        "mating",
+        "nest-building",
+        "migrating"
+    ],
+    "laysan albatross": [
+        "mating",
+        "nesting",
+        "soaring",
+        "foraging",
+        "preening"
+    ],
+    "sooty albatross": [
+        "gliding",
+        "nesting",
+        "diving",
+        "socializing",
+        "preening"
+    ],
+    "groove billed ani": [
+        "socializing",
+        "foraging",
+        "vocalizing",
+        "bathing",
+        "sunning"
+    ],
+    "crested auklet": [
+        "cresting",
+        "socializing",
+        "diving",
+        "preening",
+        "scenting"
+    ],
+    "least auklet": [
+        "diving",
+        "flocking",
+        "burrowing",
+        "preening",
+        "vocalizing"
+    ],
+    "parakeet auklet": [
+        "diving",
+        "socializing",
+        "burrowing",
+        "vocalizing",
+        "preening"
+    ],
+    "rhinoceros auklet": [
+        "diving",
+        "nesting",
+        "burrowing",
+        "socializing",
+        "foraging"
+    ],
+    "brewer blackbird": [
+        "foraging",
+        "singing",
+        "nesting",
+        "defending",
+        "bathing"
+    ],
+    "red winged blackbird": [
+        "singing",
+        "foraging",
+        "defending",
+        "nesting",
+        "migrating"
+    ],
+    "rusty blackbird": [
+        "foraging",
+        "flocking",
+        "migrating",
+        "singing",
+        "nesting"
+    ],
+    "yellow headed blackbird": [
+        "singing",
+        "foraging",
+        "nesting",
+        "migrating",
+        "defending"
+    ],
+    "bobolink": [
+        "singing",
+        "migrating",
+        "foraging",
+        "nesting",
+        "flocking"
+    ],
+    "indigo bunting": [
+        "singing",
+        "migrating",
+        "feeding",
+        "territorial",
+        "mating"
+    ],
+    "lazuli bunting": [
+        "singing",
+        "foraging",
+        "perching",
+        "migrating",
+        "nesting"
+    ],
+    "painted bunting": [
+        "singing",
+        "foraging",
+        "migrating",
+        "mating",
+        "preening"
+    ],
+    "cardinal": [
+        "singing",
+        "nesting",
+        "feeding",
+        "territorial",
+        "migrating"
+    ],
+    "spotted catbird": [
+        "foraging",
+        "calling",
+        "preening",
+        "mating",
+        "territorial"
+    ],
+    "gray catbird": [
+        "mimicking",
+        "foraging",
+        "hiding",
+        "singing",
+        "nesting"
+    ],
+    "yellow breasted chat": [
+        "singing",
+        "hiding",
+        "mimicking",
+        "foraging",
+        "defending"
+    ],
+    "eastern towhee": [
+        "scratching",
+        "singing",
+        "perching",
+        "hopping",
+        "foraging"
+    ],
+    "chuck will widow": [
+        "mating",
+        "feeding",
+        "vibrating",
+        "displaying",
+        "guarding"
+    ],
+    "brandt cormorant": [
+        "diving",
+        "swimming",
+        "nesting",
+        "preening",
+        "flocking"
+    ],
+    "red faced cormorant": [
+        "diving",
+        "fishing",
+        "nesting",
+        "preening",
+        "socializing"
+    ],
+    "pelagic cormorant": [
+        "diving",
+        "fishing",
+        "nesting",
+        "roosting",
+        "flying"
+    ],
+    "bronzed cowbird": [
+        "gazing",
+        "brooding",
+        "foraging",
+        "displaying",
+        "vocalizing"
+    ],
+    "shiny cowbird": [
+        "brood parasitism",
+        "foraging",
+        "singing",
+        "perching",
+        "flocking"
+    ],
+    "brown creeper": [
+        "climbing",
+        "foraging",
+        "singing",
+        "camouflaging",
+        "nesting"
+    ],
+    "american crow": [
+        "foraging",
+        "roosting",
+        "vocalizing",
+        "tool-using",
+        "caching"
+    ],
+    "fish crow": [
+        "foraging",
+        "calling",
+        "flocking",
+        "roosting",
+        "scavenging"
+    ],
+    "black billed cuckoo": [
+        "hiding",
+        "calling",
+        "migrating",
+        "foraging",
+        "nesting"
+    ],
+    "mangrove cuckoo": [
+        "singing",
+        "perching",
+        "foraging",
+        "hiding",
+        "gliding"
+    ],
+    "yellow billed cuckoo": [
+        "foraging",
+        "brooding",
+        "vocalizing",
+        "migrating",
+        "hiding"
+    ],
+    "gray crowned rosy finch": [
+        "foraging",
+        "singing",
+        "flocking",
+        "nesting",
+        "preening"
+    ],
+    "purple finch": [
+        "singing",
+        "foraging",
+        "nesting",
+        "migrating",
+        "preening"
+    ],
+    "northern flicker": [
+        "drumming",
+        "foraging",
+        "migrating",
+        "calling",
+        "excavating"
+    ],
+    "acadian flycatcher": [
+        "singing",
+        "foraging",
+        "perching",
+        "nesting",
+        "migrating"
+    ],
+    "great crested flycatcher": [
+        "calling",
+        "nesting",
+        "perching",
+        "hunting",
+        "migrating"
+    ],
+    "least flycatcher": [
+        "singing",
+        "perching",
+        "hunting",
+        "nesting",
+        "migrating"
+    ],
+    "olive sided flycatcher": [
+        "singing",
+        "perching",
+        "hunting",
+        "migrating",
+        "preening"
+    ],
+    "scissor tailed flycatcher": [
+        "flying",
+        "perching",
+        "foraging",
+        "singing",
+        "gliding"
+    ],
+    "vermilion flycatcher": [
+        "perching",
+        "flying",
+        "hunting",
+        "singing",
+        "territory-defending"
+    ],
+    "yellow bellied flycatcher": [
+        "migrating",
+        "singing",
+        "foraging",
+        "perching",
+        "breeding"
+    ],
+    "frigatebird": [
+        "soaring",
+        "fishing",
+        "gliding",
+        "stealing",
+        "nesting"
+    ],
+    "northern fulmar": [
+        "gliding",
+        "foraging",
+        "nesting",
+        "socializing",
+        "diving"
+    ],
+    "gadwall": [
+        "dabbling",
+        "migrating",
+        "nesting",
+        "foraging",
+        "vocalizing"
+    ],
+    "american goldfinch": [
+        "eating",
+        "singing",
+        "migrating",
+        "nesting",
+        "bathing"
+    ],
+    "european goldfinch": [
+        "feeding",
+        "singing",
+        "nesting",
+        "migrating",
+        "socializing"
+    ],
+    "boat tailed grackle": [
+        "singing",
+        "foraging",
+        "nesting",
+        "displaying",
+        "flocking"
+    ],
+    "eared grebe": [
+        "diving",
+        "preening",
+        "flocking",
+        "migrating",
+        "vocalizing"
+    ],
+    "horned grebe": [
+        "diving",
+        "preening",
+        "vocalizing",
+        "migrating",
+        "foraging"
+    ],
+    "pied billed grebe": [
+        "diving",
+        "floating",
+        "vocalizing",
+        "preening",
+        "nesting"
+    ],
+    "western grebe": [
+        "diving",
+        "preening",
+        "dancing",
+        "feeding",
+        "nesting"
+    ],
+    "blue grosbeak": [
+        "singing",
+        "foraging",
+        "migrating",
+        "nesting",
+        "territorial"
+    ],
+    "evening grosbeak": [
+        "foraging",
+        "singing",
+        "flocking",
+        "perching",
+        "migrating"
+    ],
+    "pine grosbeak": [
+        "eating",
+        "singing",
+        "migrating",
+        "foraging",
+        "nesting"
+    ],
+    "rose breasted grosbeak": [
+        "singing",
+        "feeding",
+        "migrating",
+        "nesting",
+        "preening"
+    ],
+    "pigeon guillemot": [
+        "diving",
+        "swimming",
+        "nesting",
+        "preening",
+        "vocalizing"
+    ],
+    "california gull": [
+        "foraging",
+        "nesting",
+        "migrating",
+        "vocalizing",
+        "preening"
+    ],
+    "glaucous winged gull": [
+        "scavenging",
+        "calling",
+        "nesting",
+        "soaring",
+        "foraging"
+    ],
+    "heermann gull": [
+        "scavenging",
+        "flocking",
+        "diving",
+        "calling",
+        "migrating"
+    ],
+    "herring gull": [
+        "scavenging",
+        "nesting",
+        "calling",
+        "flying",
+        "foraging"
+    ],
+    "ivory gull": [
+        "scavenging",
+        "flying",
+        "diving",
+        "congregating",
+        "vocalizing"
+    ],
+    "ring billed gull": [
+        "scavenging",
+        "flying",
+        "swimming",
+        "socializing",
+        "squawking"
+    ],
+    "slaty backed gull": [
+        "scavenging",
+        "vocalizing",
+        "soaring",
+        "diving",
+        "nesting"
+    ],
+    "western gull": [
+        "scavenging",
+        "nesting",
+        "squawking",
+        "soaring",
+        "foraging"
+    ],
+    "anna hummingbird": [
+        "hovering",
+        "feeding",
+        "diving",
+        "territoriality",
+        "nesting"
+    ],
+    "ruby throated hummingbird": [
+        "hovering",
+        "feeding",
+        "migrating",
+        "courting",
+        "nesting"
+    ],
+    "rufous hummingbird": [
+        "hovering",
+        "feeding",
+        "territorial",
+        "migrating",
+        "nesting"
+    ],
+    "green violetear": [
+        "hovering",
+        "feeding",
+        "singing",
+        "defending",
+        "migrating"
+    ],
+    "long tailed jaeger": [
+        "plunging",
+        "hovering",
+        "chasing",
+        "diving",
+        "gliding"
+    ],
+    "pomarine jaeger": [
+        "kleptoparasitism",
+        "soaring",
+        "diving",
+        "chasing",
+        "migrating"
+    ],
+    "blue jay": [
+        "mimicking",
+        "caching",
+        "bathing",
+        "socializing",
+        "vocalizing"
+    ],
+    "florida jay": [
+        "foraging",
+        "caching",
+        "socializing",
+        "vocalizing",
+        "preening"
+    ],
+    "green jay": [
+        "foraging",
+        "vocalizing",
+        "socializing",
+        "caching",
+        "preening"
+    ],
+    "dark eyed junco": [
+        "foraging",
+        "singing",
+        "mating",
+        "nesting",
+        "migrating"
+    ],
+    "tropical kingbird": [
+        "singing",
+        "perching",
+        "hunting",
+        "defending",
+        "gliding"
+    ],
+    "gray kingbird": [
+        "perching",
+        "hunting",
+        "vocalizing",
+        "defending",
+        "migrating"
+    ],
+    "belted kingfisher": [
+        "diving",
+        "fishing",
+        "perching",
+        "vocalizing",
+        "tunneling"
+    ],
+    "green kingfisher": [
+        "diving",
+        "fishing",
+        "perching",
+        "calling",
+        "territorial"
+    ],
+    "pied kingfisher": [
+        "diving",
+        "hovering",
+        "fishing",
+        "vocalizing",
+        "monogamy"
+    ],
+    "ringed kingfisher": [
+        "diving",
+        "fishing",
+        "perching",
+        "calling",
+        "nesting"
+    ],
+    "white breasted kingfisher": [
+        "diving",
+        "perching",
+        "calling",
+        "hunting",
+        "nesting"
+    ],
+    "red legged kittiwake": [
+        "cliff-nesting",
+        "diving",
+        "vocalizing",
+        "flocking",
+        "preening"
+    ],
+    "horned lark": [
+        "singing",
+        "foraging",
+        "nesting",
+        "dustbathing",
+        "migrating"
+    ],
+    "pacific loon": [
+        "diving",
+        "swimming",
+        "vocalizing",
+        "migrating",
+        "nesting"
+    ],
+    "mallard": [
+        "swimming",
+        "foraging",
+        "quacking",
+        "mating",
+        "nesting"
+    ],
+    "western meadowlark": [
+        "singing",
+        "foraging",
+        "nesting",
+        "territorial",
+        "migrating"
+    ],
+    "hooded merganser": [
+        "diving",
+        "foraging",
+        "nesting",
+        "swimming",
+        "courting"
+    ],
+    "red breasted merganser": [
+        "diving",
+        "foraging",
+        "migrating",
+        "preening",
+        "mating"
+    ],
+    "mockingbird": [
+        "singing",
+        "mimicking",
+        "territorial",
+        "nesting",
+        "foraging"
+    ],
+    "nighthawk": [
+        "hunting",
+        "nocturnal",
+        "migrating",
+        "perching",
+        "singing"
+    ],
+    "clark nutcracker": [
+        "hoarding",
+        "caching",
+        "flying",
+        "foraging",
+        "socializing"
+    ],
+    "white breasted nuthatch": [
+        "caching",
+        "climbing",
+        "vocalizing",
+        "foraging",
+        "mating"
+    ],
+    "baltimore oriole": [
+        "singing",
+        "nesting",
+        "foraging",
+        "migrating",
+        "perching"
+    ],
+    "hooded oriole": [
+        "feeding",
+        "nesting",
+        "singing",
+        "migrating",
+        "foraging"
+    ],
+    "orchard oriole": [
+        "singing",
+        "foraging",
+        "nesting",
+        "migrating",
+        "defending"
+    ],
+    "scott oriole": [
+        "singing",
+        "foraging",
+        "nesting",
+        "migrating",
+        "territorial-defense"
+    ],
+    "ovenbird": [
+        "singing",
+        "foraging",
+        "migrating",
+        "nesting",
+        "territorial"
+    ],
+    "brown pelican": [
+        "diving",
+        "fishing",
+        "soaring",
+        "preening",
+        "flocking"
+    ],
+    "white pelican": [
+        "flocking",
+        "diving",
+        "soaring",
+        "feeding",
+        "preening"
+    ],
+    "western wood pewee": [
+        "singing",
+        "perching",
+        "catching",
+        "gliding",
+        "hovering"
+    ],
+    "sayornis": [
+        "perching",
+        "foraging",
+        "singing",
+        "diving",
+        "migrating"
+    ],
+    "american pipit": [
+        "walking",
+        "foraging",
+        "singing",
+        "migrating",
+        "bobbing"
+    ],
+    "whip poor will": [
+        "nocturnal",
+        "calling",
+        "hunting",
+        "migrating",
+        "brooding"
+    ],
+    "horned puffin": [
+        "diving",
+        "foraging",
+        "nesting",
+        "socializing",
+        "preening"
+    ],
+    "common raven": [
+        "cawing",
+        "scavenging",
+        "soaring",
+        "playing",
+        "hoarding"
+    ],
+    "white necked raven": [
+        "soaring",
+        "scavenging",
+        "vocalizing",
+        "playing",
+        "tool-using"
+    ],
+    "american redstart": [
+        "flitting",
+        "singing",
+        "foraging",
+        "perching",
+        "migrating"
+    ],
+    "geococcyx": [
+        "running",
+        "foraging",
+        "vocalizing",
+        "sunbathing",
+        "territorial"
+    ],
+    "loggerhead shrike": [
+        "hunting",
+        "perching",
+        "singing",
+        "caching",
+        "nesting"
+    ],
+    "great grey shrike": [
+        "hunting",
+        "perching",
+        "singing",
+        "territorial",
+        "caching"
+    ],
+    "baird sparrow": [
+        "singing",
+        "foraging",
+        "nesting",
+        "perching",
+        "migrating"
+    ],
+    "black throated sparrow": [
+        "singing",
+        "foraging",
+        "dust-bathing",
+        "territorial",
+        "nesting"
+    ],
+    "brewer sparrow": [
+        "singing",
+        "foraging",
+        "dust-bathing",
+        "perching",
+        "mating"
+    ],
+    "chipping sparrow": [
+        "singing",
+        "foraging",
+        "nesting",
+        "perching",
+        "bathing"
+    ],
+    "clay colored sparrow": [
+        "singing",
+        "foraging",
+        "nesting",
+        "hiding",
+        "migrating"
+    ],
+    "house sparrow": [
+        "feeding",
+        "chirping",
+        "nesting",
+        "bathing",
+        "flocking"
+    ],
+    "field sparrow": [
+        "singing",
+        "foraging",
+        "nesting",
+        "hiding",
+        "perching"
+    ],
+    "fox sparrow": [
+        "scratching",
+        "hopping",
+        "singing",
+        "hiding",
+        "foraging"
+    ],
+    "grasshopper sparrow": [
+        "singing",
+        "nesting",
+        "foraging",
+        "hiding",
+        "migrating"
+    ],
+    "harris sparrow": [
+        "singing",
+        "foraging",
+        "territorial",
+        "flocking",
+        "migrating"
+    ],
+    "henslow sparrow": [
+        "singing",
+        "hiding",
+        "foraging",
+        "nesting",
+        "migrating"
+    ],
+    "le conte sparrow": [
+        "skulking",
+        "foraging",
+        "singing",
+        "migrating",
+        "nesting"
+    ],
+    "lincoln sparrow": [
+        "singing",
+        "foraging",
+        "migrating",
+        "hiding",
+        "bathing"
+    ],
+    "nelson sharp tailed sparrow": [
+        "feeding",
+        "nesting",
+        "singing",
+        "hiding",
+        "migrating"
+    ],
+    "savannah sparrow": [
+        "singing",
+        "foraging",
+        "nesting",
+        "mating",
+        "migrating"
+    ],
+    "seaside sparrow": [
+        "foraging",
+        "nesting",
+        "singing",
+        "preening",
+        "migrating"
+    ],
+    "song sparrow": [
+        "singing",
+        "foraging",
+        "nesting",
+        "bathing",
+        "territoriality"
+    ],
+    "tree sparrow": [
+        "foraging",
+        "chirping",
+        "nesting",
+        "dust-bathing",
+        "flocking"
+    ],
+    "vesper sparrow": [
+        "singing",
+        "foraging",
+        "perching",
+        "dust-bathing",
+        "migrating"
+    ],
+    "white crowned sparrow": [
+        "singing",
+        "foraging",
+        "territorial",
+        "nesting",
+        "molting"
+    ],
+    "white throated sparrow": [
+        "singing",
+        "foraging",
+        "migrating",
+        "bathing",
+        "territorial-defense"
+    ],
+    "cape glossy starling": [
+        "singing",
+        "foraging",
+        "bathing",
+        "perching",
+        "socializing"
+    ],
+    "bank swallow": [
+        "burrowing",
+        "flying",
+        "socializing",
+        "diving",
+        "migrating"
+    ],
+    "barn swallow": [
+        "building",
+        "feeding",
+        "migrating",
+        "singing",
+        "diving"
+    ],
+    "cliff swallow": [
+        "building",
+        "socializing",
+        "migrating",
+        "feeding",
+        "nesting"
+    ],
+    "tree swallow": [
+        "gliding",
+        "foraging",
+        "nesting",
+        "singing",
+        "socializing"
+    ],
+    "scarlet tanager": [
+        "singing",
+        "migrating",
+        "foraging",
+        "perching",
+        "nesting"
+    ],
+    "summer tanager": [
+        "foraging",
+        "singing",
+        "migrating",
+        "territory-defending",
+        "nesting"
+    ],
+    "artic tern": [
+        "migrating",
+        "fishing",
+        "diving",
+        "nesting",
+        "vocalizing"
+    ],
+    "black tern": [
+        "diving",
+        "foraging",
+        "nesting",
+        "flocking",
+        "migrating"
+    ],
+    "caspian tern": [
+        "diving",
+        "fishing",
+        "vocalizing",
+        "migrating",
+        "nesting"
+    ],
+    "common tern": [
+        "diving",
+        "fishing",
+        "migrating",
+        "nesting",
+        "vocalizing"
+    ],
+    "elegant tern": [
+        "diving",
+        "flocking",
+        "nesting",
+        "screeching",
+        "migrating"
+    ],
+    "forsters tern": [
+        "diving",
+        "fishing",
+        "nesting",
+        "soaring",
+        "vocalizing"
+    ],
+    "least tern": [
+        "diving",
+        "nesting",
+        "feeding",
+        "courting",
+        "migrating"
+    ],
+    "green tailed towhee": [
+        "foraging",
+        "singing",
+        "dust-bathing",
+        "hiding",
+        "mating"
+    ],
+    "brown thrasher": [
+        "singing",
+        "foraging",
+        "mimicking",
+        "nesting",
+        "defending"
+    ],
+    "sage thrasher": [
+        "singing",
+        "foraging",
+        "nesting",
+        "migrating",
+        "perching"
+    ],
+    "black capped vireo": [
+        "singing",
+        "foraging",
+        "nesting",
+        "defending",
+        "migrating"
+    ],
+    "blue headed vireo": [
+        "singing",
+        "foraging",
+        "nesting",
+        "migrating",
+        "defending"
+    ],
+    "philadelphia vireo": [
+        "singing",
+        "foraging",
+        "migrating",
+        "nesting",
+        "grooming"
+    ],
+    "red eyed vireo": [
+        "singing",
+        "foraging",
+        "migrating",
+        "nesting",
+        "defending"
+    ],
+    "warbling vireo": [
+        "singing",
+        "foraging",
+        "nesting",
+        "migrating",
+        "defending"
+    ],
+    "white eyed vireo": [
+        "singing",
+        "foraging",
+        "nesting",
+        "territorial",
+        "hiding"
+    ],
+    "yellow throated vireo": [
+        "singing",
+        "foraging",
+        "nesting",
+        "migrating",
+        "territorial"
+    ],
+    "bay breasted warbler": [
+        "foraging",
+        "singing",
+        "migrating",
+        "nesting",
+        "preening"
+    ],
+    "black and white warbler": [
+        "foraging",
+        "flitting",
+        "singing",
+        "clinging",
+        "gleaning"
+    ],
+    "black throated blue warbler": [
+        "singing",
+        "foraging",
+        "migrating",
+        "nesting",
+        "territoriality"
+    ],
+    "blue winged warbler": [
+        "singing",
+        "foraging",
+        "migrating",
+        "perching",
+        "nesting"
+    ],
+    "canada warbler": [
+        "singing",
+        "foraging",
+        "migrating",
+        "nesting",
+        "territorial"
+    ],
+    "cape may warbler": [
+        "foraging",
+        "singing",
+        "migrating",
+        "nesting",
+        "flitting"
+    ],
+    "cerulean warbler": [
+        "singing",
+        "migrating",
+        "foraging",
+        "nesting",
+        "flitting"
+    ],
+    "chestnut sided warbler": [
+        "singing",
+        "foraging",
+        "migrating",
+        "perching",
+        "preening"
+    ],
+    "golden winged warbler": [
+        "singing",
+        "migrating",
+        "foraging",
+        "nesting",
+        "territoriality"
+    ],
+    "hooded warbler": [
+        "singing",
+        "foraging",
+        "migrating",
+        "nesting",
+        "territorialestablishment"
+    ],
+    "kentucky warbler": [
+        "singing",
+        "foraging",
+        "nesting",
+        "migrating",
+        "hiding"
+    ],
+    "magnolia warbler": [
+        "singing",
+        "foraging",
+        "migrating",
+        "territorial",
+        "bathing"
+    ],
+    "mourning warbler": [
+        "singing",
+        "foraging",
+        "migrating",
+        "hiding",
+        "territorial"
+    ],
+    "myrtle warbler": [
+        "singing",
+        "foraging",
+        "migrating",
+        "perching",
+        "bathing"
+    ],
+    "nashville warbler": [
+        "singing",
+        "foraging",
+        "migrating",
+        "nesting",
+        "flitting"
+    ],
+    "orange crowned warbler": [
+        "singing",
+        "foraging",
+        "migrating",
+        "nesting",
+        "flitting"
+    ],
+    "palm warbler": [
+        "foraging",
+        "flitting",
+        "singing",
+        "bobbing",
+        "migrating"
+    ],
+    "pine warbler": [
+        "singing",
+        "foraging",
+        "nesting",
+        "migrating",
+        "chirping"
+    ],
+    "prairie warbler": [
+        "singing",
+        "foraging",
+        "nesting",
+        "migrating",
+        "flitting"
+    ],
+    "prothonotary warbler": [
+        "singing",
+        "foraging",
+        "nesting",
+        "migratory",
+        "bathing"
+    ],
+    "swainson warbler": [
+        "skulking",
+        "singing",
+        "foraging",
+        "nest-building",
+        "migrating"
+    ],
+    "tennessee warbler": [
+        "singing",
+        "foraging",
+        "migrating",
+        "nesting",
+        "flitting"
+    ],
+    "wilson warbler": [
+        "migrating",
+        "feeding",
+        "singing",
+        "nesting",
+        "flitting"
+    ],
+    "worm eating warbler": [
+        "foraging",
+        "singing",
+        "migrating",
+        "nesting",
+        "hiding"
+    ],
+    "yellow warbler": [
+        "singing",
+        "migrating",
+        "foraging",
+        "nesting",
+        "flitting"
+    ],
+    "northern waterthrush": [
+        "foraging",
+        "singing",
+        "migrating",
+        "nesting",
+        "skulking"
+    ],
+    "louisiana waterthrush": [
+        "foraging",
+        "singing",
+        "bobbing",
+        "nesting",
+        "defending"
+    ],
+    "bohemian waxwing": [
+        "frugivorous",
+        "gregarious",
+        "nomadic",
+        "vocalizing",
+        "foraging"
+    ],
+    "cedar waxwing": [
+        "socializing",
+        "foraging",
+        "perching",
+        "vocalizing",
+        "migrating"
+    ],
+    "american three toed woodpecker": [
+        "foraging",
+        "drumming",
+        "excavating",
+        "territorial",
+        "mating"
+    ],
+    "pileated woodpecker": [
+        "drumming",
+        "foraging",
+        "excavating",
+        "calling",
+        "flying"
+    ],
+    "red bellied woodpecker": [
+        "drumming",
+        "foraging",
+        "tapping",
+        "calling",
+        "nesting"
+    ],
+    "red cockaded woodpecker": [
+        "pecking",
+        "foraging",
+        "drumming",
+        "nesting",
+        "flocking"
+    ],
+    "red headed woodpecker": [
+        "drumming",
+        "foraging",
+        "caching",
+        "territorial",
+        "migrating"
+    ],
+    "downy woodpecker": [
+        "drumming",
+        "foraging",
+        "tapping",
+        "climbing",
+        "preening"
+    ],
+    "bewick wren": [
+        "singing",
+        "foraging",
+        "nesting",
+        "preening",
+        "perching"
+    ],
+    "cactus wren": [
+        "foraging",
+        "nesting",
+        "vocalizing",
+        "sunbathing",
+        "territoriality"
+    ],
+    "carolina wren": [
+        "singing",
+        "foraging",
+        "nesting",
+        "territorial",
+        "perching"
+    ],
+    "house wren": [
+        "singing",
+        "nesting",
+        "foraging",
+        "defending",
+        "perching"
+    ],
+    "marsh wren": [
+        "singing",
+        "nesting",
+        "foraging",
+        "defending",
+        "hiding"
+    ],
+    "rock wren": [
+        "singing",
+        "foraging",
+        "hopping",
+        "territorial",
+        "nesting"
+    ],
+    "winter wren": [
+        "singing",
+        "foraging",
+        "hiding",
+        "building",
+        "mating"
+    ],
+    "common yellowthroat": [
+        "singing",
+        "foraging",
+        "hiding",
+        "migrating",
+        "nesting"
+    ]
+}

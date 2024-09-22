@@ -1,2 +1,9 @@
 test.ipynb
 __pycache__/
+data/
+embeddings/
+experiments/
+data_analysis/
+resnet.py
+vit.py
+extract_image_features.py
