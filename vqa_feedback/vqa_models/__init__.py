@@ -1,0 +1,1 @@
+from .image_qa_model import ImageQAModel
