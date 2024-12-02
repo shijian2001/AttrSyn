@@ -329,6 +329,24 @@ class QwenVL(QAModelInstance):
 		answer = self.tokenizer.decode(out[0][inputs["input_ids"].size(1):], skip_special_tokens=True).strip()
 
 		return answer
+		
+	def batch_qa(self, images, prompts):
+		queries = [
+			self.tokenizer.from_list_format([{'image': img, 'text': prompt}])
+			for img, prompt in zip(images, prompts)
+		]
+		
+		inputs = [self.tokenizer(query, return_tensors='pt') for query in queries]
+		
+		inputs = [input.to(self.model.device) for input in inputs]
+		
+		outputs = [self.model.generate(**input_data) for input_data in inputs]
+		
+		answers = [self.tokenizer.decode(output[0], skip_special_tokens=True) for output in outputs]
+		
+		return answers
+
+
 
 
 class QwenVLChat(QAModelInstance):
@@ -381,6 +399,38 @@ class QwenVLChat(QAModelInstance):
 			answer, history = self.model.chat(self.tokenizer, query=query, history=None)
 
 		return answer
+
+	def batch_qa(self, images, prompts):
+		"""
+		Batch QA method for handling multiple images and prompts.
+		"""
+		# Handle images: save them temporarily if they are PIL Images
+		image_paths = []
+		for image in images:
+			if isinstance(image, Image.Image):
+				with tempfile.NamedTemporaryFile(delete=True, suffix=".png") as tmp:
+					image.save(tmp.name)
+					image_paths.append(tmp.name)
+			else:
+				# If the image is already a path, append directly
+				image_paths.append(image)
+
+		# Build queries for all prompts and images
+		queries = []
+		for image_path, prompt in zip(image_paths, prompts):
+			queries.append(self.tokenizer.from_list_format([
+				{'image': image_path},
+				{'text': prompt},
+			]))
+
+		answers = []
+		for query in queries:
+			answer, history = self.model.chat(self.tokenizer, query=query, history=None)
+			answers.append(answer)
+
+		return answers
+
+
 
 
 IMAGENET_MEAN = (0.485, 0.456, 0.406)
@@ -559,6 +609,12 @@ class DeepSeekVLChat(QAModelInstance):
 		answer = self.tokenizer.decode(outputs[0].cpu().tolist(), skip_special_tokens=True)
 
 		return answer
+
+	
+	
+
+
+	
 
 class IDEFICS2(QAModelInstance):
 	def __init__(self, ckpt="HuggingFaceM4/idefics2-8b", torch_device=torch.device("cuda"), model_precision=torch.float16, use_lora=False):
@@ -836,6 +892,31 @@ class QwenVLAPI(QAModelInstance):
 				image_path = tmp.name
 				response = self._get_response(image_path, base64_image, prompt)
 		return response
+	
+	def batch_qa(self, iamges, prompts):
+		if len(images) != len(promts):
+			raise ValueError("The length of the image list and the prompt list must be the same.")
+
+		uploaded_images = []
+		for imaga in images:
+			if isinstance(image, str):
+				image_path, image_file_name = self._upload_image(image)
+			else:
+				with tempfile.NamedTemporaryFile(delete=True, suffix=".png") as tep:
+					image.save(tmp.name)
+					image_path, image_file_name = self._upload_image(tmp.name)
+			uploaded_images.append((image_path, image_file_name))
+
+		response = []
+		for idx, (image_info, prompt) in enumerate(zip(uploaded_images, prompts)):
+			image_url, image_file_name = image_info
+			response = self._get_response(image_url, prompt)
+			responses.append(response)
+            # 删除已上传的图像
+			self._delete_image(image_file_name)
+
+		return responses
+
 
 
 class QwenVLPlus(QwenVLAPI):
