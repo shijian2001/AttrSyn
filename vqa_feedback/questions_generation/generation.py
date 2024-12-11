@@ -10,7 +10,7 @@ def generate_qid_data_from_prompt(input_text_prompt):
     containing prompt, qid2tuple, qid2dependency, and qid2question.
 
     Parameters:
-    - input_text_prompt: A prompt describing the image to be generated.
+    - input_text_prompt: A prompt describing the image to be generated. 
 
     Returns:
     - qid_data: A dictionary containing prompt, qid2tuple, qid2dependency, and qid2question.
