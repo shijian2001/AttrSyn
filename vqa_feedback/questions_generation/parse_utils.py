@@ -2,7 +2,7 @@ def clean_tuple_str(tuple_str):
 
     tuple_str = tuple_str
 
-    # only take the string before parenthesis  
+    # only take the string before parenthesis
     tuple_str = tuple_str.strip().split('(')[0]
 
     tuple_str = tuple_str.strip()

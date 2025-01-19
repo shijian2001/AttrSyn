@@ -1,5 +1,5 @@
 
-import openai 
+import openai
 
 def openai_setup(key_path='./_OAI_KEY.txt'):
 	with open(key_path) as f:
